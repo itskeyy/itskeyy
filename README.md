@@ -34,9 +34,9 @@ Other Tools:
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskeyy&theme=algolia&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats-ryken-dev.vercel.app/api/top-langs/?username=itskeyy&theme=algolia&layout=compact" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itskeyy&show_icons=true&theme=algolia" alt="itskeyy's GitHub Stats"/>
+  <img src="https://github-readme-stats-ryken-dev.vercel.app/api?username=itskeyy&show_icons=true&theme=algolia" alt="itskeyy's GitHub Stats"/>
 </p>
